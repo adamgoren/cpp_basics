@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-cout<<"Welcome to DataFlair tutorials!"<<endl<<endl;
+cout<<"Welcome to our tech talk talk!"<<endl<<endl;
 int positive_integer;
 cout<<"Enter a positive integer: "<<endl;
 cin>>positive_integer;
